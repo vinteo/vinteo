@@ -1,1 +1,1 @@
-![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinteo&count_private=true)
+![Vincent's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinteo?theme=dark&cardType=octocat)
