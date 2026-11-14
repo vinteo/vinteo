@@ -7,3 +7,9 @@ look:
   style: classic
   color: github
   background: none
+show: [summary, languages, contributions, weekly, streaks, about]
+cards:
+  about:
+    headline: "Hi, I'm *Vincent*"
+    facts:
+      "Based in": "Melbourne, Australia"
