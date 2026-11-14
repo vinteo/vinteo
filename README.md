@@ -1,5 +1,3 @@
-![Vincent's GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/vinteo?theme=dark&cardType=octocat)
-
 <!-- cool-readme:start -->
 <!-- Cards by github-cool-readme: https://github.com/pedrocatalao/github-cool-readme -->
 <p align="center">
