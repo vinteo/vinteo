@@ -1,0 +1,9 @@
+# Settings: https://github.com/pedrocatalao/github-cool-readme#settings
+user: vinteo
+count:
+  private: true
+  orgs: true
+look:
+  style: classic
+  color: github
+  background: none
